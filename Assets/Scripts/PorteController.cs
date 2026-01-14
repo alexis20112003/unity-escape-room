@@ -30,6 +30,11 @@ public class PorteController : MonoBehaviour
         opened = true;
     }
 
+    public void Close()
+    {
+        opened = false;
+    }
+
     public void RotationTransform(Quaternion rotationCible, float vitesseRotation, Transform transform)
     {
         transform.localRotation = Quaternion.Lerp(
