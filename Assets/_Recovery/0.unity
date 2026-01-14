@@ -8161,7 +8161,7 @@ MonoBehaviour:
   pivot: {fileID: 1294918185}
   closedReference: {fileID: 1158884771}
   openedReference: {fileID: 677215759}
-  vitesseRotation: 5
+  vitesseRotation: 2
 --- !u!4 &954950273
 Transform:
   m_ObjectHideFlags: 0
