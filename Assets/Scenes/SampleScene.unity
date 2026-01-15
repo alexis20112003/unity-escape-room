@@ -19466,6 +19466,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3373576150232357703, guid: 2395997707208dd42b34f911e441785e, type: 3}
+      propertyPath: vitesse
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3373576150232357703, guid: 2395997707208dd42b34f911e441785e, type: 3}
+      propertyPath: rigidbody
+      value: 
+      objectReference: {fileID: 1922723795}
+    - target: {fileID: 3373576150232357703, guid: 2395997707208dd42b34f911e441785e, type: 3}
+      propertyPath: distanceToStop
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4652983327743645050, guid: 2395997707208dd42b34f911e441785e, type: 3}
       propertyPath: m_Name
       value: EnemyRoot
